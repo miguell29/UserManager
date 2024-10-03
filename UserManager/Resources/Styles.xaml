@@ -1,0 +1,19 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<!--#region Control's keys-->
+    <SolidColorBrush x:Key="bg-primary"         Color="Blue"/>
+    <SolidColorBrush x:Key="bg-secondary"       Color="DimGray"/>
+    <SolidColorBrush x:Key="bg-card"            Color="#99aab5"/>
+    <SolidColorBrush x:Key="bg-card-light"      Color="#eeeeee"/>
+    <SolidColorBrush x:Key="bg-gray"            Color="Gray"/>
+    <SolidColorBrush x:Key="bg-white"           Color="White"/>
+    <SolidColorBrush x:Key="bg-succes"          Color="ForestGreen"/>
+    <SolidColorBrush x:Key="bg-danger"          Color="DarkRed"/>
+    <SolidColorBrush x:Key="bg-warning"         Color="YellowGreen"/>
+    <SolidColorBrush x:Key="bg-info"            Color="CadetBlue"/>
+    <SolidColorBrush x:Key="bg-light"           Color="#f8f9fa"/>
+    <SolidColorBrush x:Key="bg-dark"            Color="#444444"/>
+    <FontFamily x:Key="font-primary">Bahnschrift</FontFamily>
+    <!--#endregion-->
+    
+</ResourceDictionary>
